@@ -9,7 +9,7 @@ cd $dir
 
 /usr/bin/git add -A                   # Record any changes
 /usr/bin/git commit -m "Scheduled update $now"
-/usr/bin/git push origin master
+/usr/bin/git push
 echo "hychoi05" 
 echo "Btrfiwyst14" 
 exit 0
